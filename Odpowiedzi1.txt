@@ -1,0 +1,3 @@
+1. Jest to klasa, która może zawierać abstrakcyjne metody (czyli te niezaimplementowane) oraz zwykłe metody. Nie można utworzyć z niej obiektu, lecz można po niej dziedziczyć.
+
+2. Jest to zestaw metod, właściwości, zdarzeń i indeksatorów, które muszą zostać zaimplementowane przez klasę lub strukturę. Zawiera Metody, właściwości, zdarzenia, indeksatory, statyczne metody i domyślne interpretacje metod. Jedna klasa może implementować dowolną liczbe interfejsów. Interfejs jest typem referencyjnym.
