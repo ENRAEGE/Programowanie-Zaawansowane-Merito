@@ -25,7 +25,7 @@ namespace Kurierens
         {
             void Dostarcz();
         }
-
+        
         class MałaPaczka : IPaczka
         {
             public void Spakuj()
@@ -57,7 +57,7 @@ namespace Kurierens
                 Console.WriteLine("Dostarczono przez kuriera UPS.");
             }
         }
-
+//Poniżej użyty jest wzorzec Factory, używamy go do "stworzenia" logistyk w krajach.
         interface IFabrykaLogistyki
         {
             IKurier UtworzKuriera();
