@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.exe
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.deps.json
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.runtimeconfig.json
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.dll
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\ref\Paczkens.dll
+C:\Users\Student\source\repos\Paczkens\bin\Debug\net5.0\Paczkens.pdb
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.AssemblyInfo.cs
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.dll
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\ref\Paczkens.dll
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.pdb
+C:\Users\Student\source\repos\Paczkens\obj\Debug\net5.0\Paczkens.genruntimeconfig.cache
