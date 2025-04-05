@@ -73,7 +73,7 @@ namespace Paczkens
     {
         IPaczka UtwórzPaczkę();
     }
-
+//Poniżej użyty jest wzorzec Abstract Factory do tworzenia rodzaju paczek
     class FabrykaDużychPaczek : IFabrykaPaczek
     {
         public IPaczka UtwórzPaczkę()
