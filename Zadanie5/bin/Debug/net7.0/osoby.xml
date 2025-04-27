@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba xsi:type="Student">
+    <Imie>Jan</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Wiek>22</Wiek>
+    <NumerIndeksu>1312345</NumerIndeksu>
+    <NumerGrupy>25_Inf_NW_4</NumerGrupy>
+  </Osoba>
+  <Osoba xsi:type="Student">
+    <Imie>Anna</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Wiek>21</Wiek>
+    <NumerIndeksu>1412346</NumerIndeksu>
+    <NumerGrupy>23_Inf_NW_4</NumerGrupy>
+  </Osoba>
+  <Osoba xsi:type="Student">
+    <Imie>Piotr</Imie>
+    <Nazwisko>Wiśniewski</Nazwisko>
+    <Wiek>23</Wiek>
+    <NumerIndeksu>1312347</NumerIndeksu>
+    <NumerGrupy>26_Inf_NW_4</NumerGrupy>
+  </Osoba>
+  <Osoba xsi:type="Student">
+    <Imie>Maria</Imie>
+    <Nazwisko>Wójcik</Nazwisko>
+    <Wiek>20</Wiek>
+    <NumerIndeksu>1412348</NumerIndeksu>
+    <NumerGrupy>21_Inf_NW_4</NumerGrupy>
+  </Osoba>
+  <Osoba>
+    <Imie>Tomasz</Imie>
+    <Nazwisko>Zieliński</Nazwisko>
+    <Wiek>24</Wiek>
+  </Osoba>
+  <Osoba>
+    <Imie>Katarzyna</Imie>
+    <Nazwisko>Dąbrowska</Nazwisko>
+    <Wiek>22</Wiek>
+  </Osoba>
+  <Osoba>
+    <Imie>Michał</Imie>
+    <Nazwisko>Lewandowski</Nazwisko>
+    <Wiek>25</Wiek>
+  </Osoba>
+  <Osoba>
+    <Imie>Aleksandra</Imie>
+    <Nazwisko>Szymańska</Nazwisko>
+    <Wiek>19</Wiek>
+  </Osoba>
+</ArrayOfOsoba>

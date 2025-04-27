@@ -1,0 +1,54 @@
+[
+  {
+    "$type": "Student",
+    "NumerIndeksu": 1312345,
+    "NumerGrupy": "25_Inf_NW_4",
+    "Imie": "Jan",
+    "Nazwisko": "Kowalski",
+    "Wiek": 22
+  },
+  {
+    "$type": "Student",
+    "NumerIndeksu": 1412346,
+    "NumerGrupy": "23_Inf_NW_4",
+    "Imie": "Anna",
+    "Nazwisko": "Nowak",
+    "Wiek": 21
+  },
+  {
+    "$type": "Student",
+    "NumerIndeksu": 1312347,
+    "NumerGrupy": "26_Inf_NW_4",
+    "Imie": "Piotr",
+    "Nazwisko": "Wi\u015Bniewski",
+    "Wiek": 23
+  },
+  {
+    "$type": "Student",
+    "NumerIndeksu": 1412348,
+    "NumerGrupy": "21_Inf_NW_4",
+    "Imie": "Maria",
+    "Nazwisko": "W\u00F3jcik",
+    "Wiek": 20
+  },
+  {
+    "Imie": "Tomasz",
+    "Nazwisko": "Zieli\u0144ski",
+    "Wiek": 24
+  },
+  {
+    "Imie": "Katarzyna",
+    "Nazwisko": "D\u0105browska",
+    "Wiek": 22
+  },
+  {
+    "Imie": "Micha\u0142",
+    "Nazwisko": "Lewandowski",
+    "Wiek": 25
+  },
+  {
+    "Imie": "Aleksandra",
+    "Nazwisko": "Szyma\u0144ska",
+    "Wiek": 19
+  }
+]

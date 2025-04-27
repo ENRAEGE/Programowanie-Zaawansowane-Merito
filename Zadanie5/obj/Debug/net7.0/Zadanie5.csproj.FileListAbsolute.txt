@@ -1,0 +1,17 @@
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Zadanie5.exe
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Zadanie5.deps.json
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Zadanie5.runtimeconfig.json
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Zadanie5.dll
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Zadanie5.pdb
+C:\Users\Student\source\repos\Zadanie5\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.AssemblyInfo.cs
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.csproj.CopyComplete
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.dll
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\refint\Zadanie5.dll
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.pdb
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\Zadanie5.genruntimeconfig.cache
+C:\Users\Student\source\repos\Zadanie5\obj\Debug\net7.0\ref\Zadanie5.dll
