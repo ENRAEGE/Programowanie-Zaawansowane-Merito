@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.exe
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.deps.json
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.runtimeconfig.json
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.dll
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\ref\Zadanie8.dll
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\bin\Debug\net5.0\Zadanie8.pdb
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.AssemblyInfo.cs
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.dll
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\ref\Zadanie8.dll
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.pdb
+C:\Users\Student\source\repos\Zadanie8\Zadanie8\obj\Debug\net5.0\Zadanie8.genruntimeconfig.cache
