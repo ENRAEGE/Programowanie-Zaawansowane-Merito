@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.exe
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.deps.json
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.runtimeconfig.json
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.dll
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\ref\Zadanie7.dll
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\bin\Debug\net5.0\Zadanie7.pdb
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.AssemblyInfo.cs
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.dll
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\ref\Zadanie7.dll
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.pdb
+C:\Users\Student\source\repos\Zadanie7\Zadanie7\obj\Debug\net5.0\Zadanie7.genruntimeconfig.cache
